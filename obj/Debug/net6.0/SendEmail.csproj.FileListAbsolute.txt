@@ -1,0 +1,16 @@
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.exe
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.deps.json
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.runtimeconfig.json
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.dll
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\ref\SendEmail.dll
+C:\Users\fikem\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.pdb
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.GlobalUsings.g.cs
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.csproj.AssemblyReference.cache
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.AssemblyInfoInputs.cache
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.AssemblyInfo.cs
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.dll
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\ref\SendEmail.dll
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.pdb
+C:\Users\fikem\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.genruntimeconfig.cache
